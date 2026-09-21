@@ -1,5 +1,14 @@
-# Evaluación grupal: Gobernanza de IA — AADTC
+# Evaluación de Gobernanza de la IA — AADTC
 
+Sistema de evaluación grupal correspondiente al:
+
+**Curso Anual de Profundización en Derecho de las Telecomunicaciones, Servicios de Comunicación Audiovisual y Tecnologías de la Información y las Comunicaciones**
+
+## Acceso a la evaluación
+
+[INGRESAR A LA EVALUACIÓN](https://gobernanza-ia-grupos.canaric.chatgpt.site)
+
+El acceso de los estudiantes es público. El panel de control docente requiere usuario y contraseña.
 Aplicación educativa para el **Módulo 6: Evolución y Desafío de las TIC**, correspondiente al Curso Anual de Profundización en Derecho de las Telecomunicaciones, Servicios de Comunicación Audiovisual y Tecnologías de la Información y las Comunicaciones.
 
 ## Funciones
